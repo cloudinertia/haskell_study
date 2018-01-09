@@ -3,8 +3,9 @@
 ref: Bird, Richard-Thinking Functionally with Haskell-Cambridge University Press (2015)
 
 ### Note
-** Make private git branch !! **( e.g. oyt, taegun )
-** only ** README.md can be in this master branch 
+**Make private git branch !!**( e.g. oyt, taegun )
+
+**only** README.md can be in this master branch 
 
 **TODO**:
 
