@@ -11,6 +11,6 @@ ref: Bird, Richard-Thinking Functionally with Haskell-Cambridge University Press
 **TODO**:
 
 ### week1
-[ ] read chapter 1 to 4
-[ ] (opt) make simple artifacts for practice
-[ ] (opt) write cheatsheet
+- [ ] read chapter 1 to 4
+- [ ] (opt) make simple artifacts for practice
+- [ ] (opt) write cheatsheet
