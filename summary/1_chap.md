@@ -1,21 +1,21 @@
-what is functional programming?
+# what is functional programming?
 
-overall
+### overall
 
 - 함수를 프로그램의 기본 단위로 보고 조합해나감
 
-functions and types & composition
+#### functions and types & composition
 
 - 하스켈은 기본적으로 함수를 left associativity로 적용하기 때문에, 함수 적용시에 순서를 항상 유념한다.
   - e.g
-"""haskell
+```haskell
     > log ( sin theta )
     > -- not log sin theta
-"""
+```
 
 - 특히 합성함수 f\cdot g(x) 같은경우 인자 x는 g에 먼저 적용되어야 함을 잊지말자.
 
-example: common words
+#### example: common words
 
 - 교훈: 항상 문제를 함수의 연속된 적용으로 풀려고 노력하자(pipelining)
 - 예를들어 특정 string내에 있는 단어중 최빈 단어 n개를 뽑으려 한다면
